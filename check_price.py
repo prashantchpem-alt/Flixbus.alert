@@ -8,7 +8,7 @@ TRAVEL_DATE = "2026-06-06"
 
 URL = (
     "https://global.api.flixbus.com/search/service/v4/search"
-    "?from_city_id=953&to_city_id=4655"
+    "?from_city_id=a002c4a4-1eef-4afa-82d9-ecd690ea51c5&to_city_id=78d91747-ac07-4ae7-a19e-c1ae8f5b21e4"
     f"&departure_date={TRAVEL_DATE}"
     "&pax=1&currency=INR&locale=en_IN&search_by=cities&include_after_midnight_rides=1"
 )
