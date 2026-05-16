@@ -4,7 +4,7 @@ from datetime import datetime
 
 BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID   = os.environ["TELEGRAM_CHAT_ID"]
-TRAVEL_DATE = "2026-06-06"
+TRAVEL_DATE = "06.06.2026"
 
 URL = (
     "https://global.api.flixbus.com/search/service/v4/search"
